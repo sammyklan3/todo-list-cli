@@ -18,5 +18,5 @@ To run this project, you need to have Rust installed. You can install Rust by fo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/todo-list-cli.git
+git clone https://github.com/sammyklan3/todo-list-cli.git
 cd todo-list-cli
